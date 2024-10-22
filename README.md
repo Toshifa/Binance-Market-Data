@@ -34,7 +34,7 @@ Tailwind CSS - Used for styling the user interface:
 ## Setup Instructions
 
 1.Clone this repository to your local machine.
-git clone https://github.com/you/binance-market-data.git
+git clone https://github.com/Toshifa/Binance-Market-Data.git
 
 2.Install all dependencies.
 npm install
